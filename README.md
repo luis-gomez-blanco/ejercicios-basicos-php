@@ -34,4 +34,4 @@
   
   - **Yahtzee**: Debes obtener cinco dados iguales de la misma clase. Esta jugada vale 50 puntos.
     
-  Para este juego puedes emplear el siguiente [recurso](/img/dados).
+  Para este juego puedes emplear el siguiente [recurso](/rsc/dados).
