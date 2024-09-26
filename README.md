@@ -1,14 +1,14 @@
 # EJERCICIOS BÁSICOS DE PHP
 
-1. Escribir un programa que muestre por pantalla el mensaje “Hola mundo” de, al menos, tres formas distintas (se puede alternar formas estáticas, dinámicas, con variables, constantes, etc.).
+1. Escribir un programa que muestre por pantalla el mensaje “Hola mundo” de, al menos, tres formas distintas (se pueden alternar formas estáticas, dinámicas, con variables, con constantes, etc.).
 
 2. Escribir un programa que muestre el nombre, apellidos, curso, teléfono y dirección (pueden ser ficticios) de un alumno por pantalla. Cada dato se debe mostrar en una línea, debiendo destacar los datos personales mediante estilos.
 
-3. Escribir un programa que muestre el horario de clase mediante una tabla. Se deben aplicar los estilos visuales necesarios para que cada asignatura tenga una apariencia única distinta del resto.
+3. Escribir un programa que muestre el horario de clase mediante una tabla. Se deben aplicar los estilos visuales necesarios para que cada asignatura se le asigne un color aleatorio en la carga y tenga una apariencia única distinta del resto.
 
-4. Escribir un programa que utilice dos variables, una de tipo decimal y la otra de un tipo distinto (binaria, octal o hexadecimal), y asígnales valores. A continuación, muestra por pantalla cada una de las variables y un resumen de los tipos de operaciones vistas en clase. Los valores elegidos para las variables deben permitir su aplicación para todas las operaciones.
+4. Escribir un programa que utilice dos variables, una de tipo decimal y otra de un tipo distinto (binaria, octal o hexadecimal), y asignarle valores. A continuación, mostra por pantalla cada una de las variables y un resumen de los tipos de operaciones vistas en clase. Los valores elegidos para las variables deben permitir su aplicación para todas las operaciones.
 
-5. Realizar un conversor de divisas euro - dólar - yenes. La conversión deseada se definirá a través de una variable que permita que, en cada ejecución del programa, se pueda variar la función de conversión.
+5. Realizar un conversor de divisas euro - dólar - yen. El factor de conversión entre divisas es fijo, pudiendo variar la cantidad de dinero que se posee de cada moneda. Se debe mostrar el resultado de la conversión entre todas las monedas. 
 
 6. Escribir un programa que dibuje una tabla de multiplicar. El programa debe ser capaz de variar su ejecución en función de la tabla elegida o, si se desea, pintar todas las tablas de multiplicar.
 
