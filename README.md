@@ -4,43 +4,43 @@
 
    Bonus: Realiza el mismo ejercicio mostrando el mensaje en distintos idiomas, que se puedan combinar de forma aleatoria. Por ejemplo "Bonjour mundo" o "Hallo le monde".
 
-3. Escribir un programa que muestre el nombre, apellidos, curso, teléfono y dirección (pueden ser ficticios) de un alumno por pantalla. Cada dato se debe mostrar en una línea, debiendo destacar los datos personales mediante estilos.
+2. Escribir un programa que muestre el nombre, apellidos, curso, teléfono y dirección (pueden ser ficticios) de un alumno por pantalla. Cada dato se debe mostrar en una línea, debiendo destacar los datos personales mediante estilos.
 
    Bonus: Realiza el mismo ejercicio pero variando dinámicamente los estilos, cambiando por ejemplo la decoración del texto, la tipografía o el color.
 
-5. Escribir un programa que muestre el horario de clase mediante una tabla. Se deben aplicar los estilos visuales necesarios para a que cada asignatura se le asigne un color aleatorio en la carga y tenga una apariencia única distinta del resto.
+3. Escribir un programa que muestre el horario de clase mediante una tabla. Se deben aplicar los estilos visuales necesarios para a que cada asignatura se le asigne un color aleatorio en la carga y tenga una apariencia única distinta del resto.
 
    Bonus: Realizar el mismo ejercicio empleando un array asociativo donde se una asigne un estilo a cada clase.
 
-6. Escribir un programa que utilice dos variables, una de tipo decimal y otra de un tipo distinto (binaria, octal o hexadecimal), y asignarle valores. A continuación, mostrar por pantalla cada una de las variables y un resumen de los tipos de operaciones vistas en clase. Los valores elegidos para las variables deben permitir su aplicación para todas las operaciones.
+4. Escribir un programa que utilice dos variables, una de tipo decimal y otra de un tipo distinto (binaria, octal o hexadecimal), y asignarle valores. A continuación, mostrar por pantalla cada una de las variables y un resumen de los tipos de operaciones vistas en clase. Los valores elegidos para las variables deben permitir su aplicación para todas las operaciones.
 
    Bonus: Realizar el mismo ejercicio recibiendo los datos del usuario desde un formulario, empleando los controles adecuados, donde se especifique el tipo de dato enviado y se valide si su formato es correcto.
 
-7. Realizar un conversor de divisas euro - dólar - yen. El factor de conversión entre divisas es fijo, pudiendo variar la cantidad de dinero que se posee de cada moneda. Se debe mostrar el resultado de la conversión entre todas las monedas.
+5. Realizar un conversor de divisas euro - dólar - yen. El factor de conversión entre divisas es fijo, pudiendo variar la cantidad de dinero que se posee de cada moneda. Se debe mostrar el resultado de la conversión entre todas las monedas.
 
    Bonus: Realizar el mismo ejercicio recibiendo los datos del usuario desde un formulario, empleando los controles adecuados y validando el formato adecuado de los datos.
 
-9. Escribir un programa que dibuje una tabla de multiplicar. El programa debe ser capaz de variar su ejecución en función de la tabla elegida o, si se desea, pintar todas las tablas de multiplicar.
+6. Escribir un programa que dibuje una tabla de multiplicar. El programa debe ser capaz de variar su ejecución en función de la tabla elegida o, si se desea, pintar todas las tablas de multiplicar.
 
-  Bonus: Desarrollar el mismo programa recibiendo, a través de un control, la tabla de multiplicar hasta la que quiere visualizar.
+   Bonus: Desarrollar el mismo programa recibiendo, a través de un control, la tabla de multiplicar hasta la que quiere visualizar.
 
-9. Escribir un programa que pinte por pantalla una pirámide rellena a base de asteriscos. La base de la pirámide debe estar formada por 9 asteriscos.
+7. Escribir un programa que pinte por pantalla una pirámide rellena a base de asteriscos. La base de la pirámide debe estar formada por 9 asteriscos.
 
    Bonus: Desarrollar el mismo programa permitiendo elegir al usuario el símbolo que se utilizará en la pirámide.
    
-11. Repetir el ejercicio anterior, pero esta vez la pirámide estará hueca (se debe ver únicamente el contorno hecho con asteriscos).
+8. Repetir el ejercicio anterior, pero esta vez la pirámide estará hueca (se debe ver únicamente el contorno hecho con asteriscos).
 
    Bonus: Desarrollar el mismo programa permitiendo elegir al usuario el símbolo que se utilizará en la pirámide y el tamaño de la base.
    
-13. Repetir el ejercicio anterior, pero esta vez la pirámide debe aparecer invertida, esto es, con el vértice hacia abajo.
+9. Repetir el ejercicio anterior, pero esta vez la pirámide debe aparecer invertida, esto es, con el vértice hacia abajo.
 
-    Bonus: Desarrollar un programa que pinte por pantalla el símbolo de [la trifuerza](https://es.wikipedia.org/wiki/Trifuerza) de Link.
+   Bonus: Desarrollar un programa que pinte por pantalla el símbolo de [la trifuerza](https://es.wikipedia.org/wiki/Trifuerza) de Link.
 
     ~~https://stackoverflow.com/questions/26867689/i-need-to-make-a-triforce-containing-3-lines-of-number-for-each-triangle~~
 
-15. Escribir un programa que genere en cada ejecución una tirada de Yahtzee! indicando un resumen de las jugadas posibles y cuál es la recomendada.
+10. Escribir un programa que genere en cada ejecución una tirada de Yahtzee! indicando un resumen de las jugadas posibles y cuál es la recomendada.
 
-  El juego de Yahtzee! emplea 5 dados de 6 caras y las combinaciones posibles son:
+   El juego de Yahtzee! emplea 5 dados de 6 caras y las combinaciones posibles son:
   
   - **3 de una clase**: Debes obtener tres dados iguales. Sumas la puntuación de todos esos dados.
   
